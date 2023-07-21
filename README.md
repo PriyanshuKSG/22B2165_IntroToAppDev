@@ -1,16 +1,5 @@
 # budget_tracker_app_week2_assignment
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please look in lib folder the main.dart file. This file contains all the code. 
+This app shows the net balance amount on the home page and accepts entries of income and expense and updates the balance amount accordingly.
+The second page displays the list of transactions. 
